@@ -19,4 +19,8 @@ public class GitTest {
         System.out.println("bbb");
     }
 
+    public void testcc() {
+        System.out.println("ccc");
+    }
+
 }
