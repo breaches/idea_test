@@ -14,4 +14,9 @@ public class GitTest {
     public void testaa() {
         System.out.println("aaa");
     }
+
+    public void testbb() {
+        System.out.println("bbb");
+    }
+
 }
