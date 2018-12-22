@@ -9,5 +9,6 @@ package com.aaa.controller.shaokang;
 public class ShaokangController {
     public static void main(String[] args) {
         System.out.println("asdfads");
+        System.out.println("123132");
     }
 }
