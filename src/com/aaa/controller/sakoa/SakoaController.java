@@ -8,5 +8,6 @@ public class SakoaController {
     public static void main(String[] args){
         System.out.println("sakoa");
         System.out.println("aaatest");
+        System.out.println("bbbtest");
     }
 }
